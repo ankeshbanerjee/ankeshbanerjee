@@ -17,14 +17,12 @@ I'm investing all my time to learn and dive deep into the world of coding.
 ## 📊 Statistics
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=ankeshbanerjee" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankeshbanerjee&show_icons=true&theme=radical)
 
 
 ## 💻 Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankeshbanerjee)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankeshbanerjee&show_icons=true&theme=radical)
 
 
 
