@@ -22,7 +22,7 @@ I'm investing all my time to learn and dive deep into the world of coding.
 
 ## 💻 Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankeshbanerjee&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankeshbanerjee&show_icons=true&theme=radical)
 
 
 
