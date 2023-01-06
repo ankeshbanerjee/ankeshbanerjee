@@ -6,7 +6,7 @@
 
 <img align="right" src="coding.gif" width="30%">
 
-<div style="text-align: justify"> 
+<div style="text-align: justify; font-size: 2rem;"> 
 I'm an undergrad student of Computer Science and Engineering, currently a sophomore. 💻 
 
 <br>
