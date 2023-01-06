@@ -32,8 +32,7 @@ I'm investing all my time to learn and dive deep into the world of coding.
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankeshbanerjee&show_icons=true&theme=radical)  -->
 
-<img width = "49%" style = "margin-right: 5px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ankeshbanerjee&show_icons=true&theme=radical&layout=compact">
-<img width = "48%" src = "coding2.png">
+<img width = "49%" style = "margin-right: 5px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ankeshbanerjee&show_icons=true&theme=radical&layout=compact"><img width = "49%" src = "coding2.png">
 
 ## ☎️ Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankesh-banerjee-985911231/)
