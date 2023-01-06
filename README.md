@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-<img align="right" src="coding.gif" width="45%">
+<img align="right" src="coding.gif" width="30%">
 
 <div style="text-align: justify"> 
 I'm an undergrad student of Computer Science and Engineering, currently a sophomore. 💻 
