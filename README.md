@@ -32,7 +32,7 @@ I'm investing all my time to learn and dive deep into the world of coding.
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankeshbanerjee&show_icons=true&theme=radical)  -->
 
-<img width = "49%" style = "margin-right: 5px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ankeshbanerjee&show_icons=true&theme=radical&layout=compact">
+<img align = "left" width = "49%" style = "margin-right: 5px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ankeshbanerjee&show_icons=true&theme=radical&layout=compact">
 <img align = "right" width = "48%" style = "border-radius: 5px;" src = "coding2.png">
 
 ## ☎️ Connect with me
