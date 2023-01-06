@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-<img align="right" src="coding.gif" width="30%">
+<img align="right" src="coding.gif" width="40%">
 
  
 ### I'm an undergrad student of Computer Science and Engineering, currently a sophomore. 💻 
@@ -33,7 +33,7 @@ I'm investing all my time to learn and dive deep into the world of coding.
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankeshbanerjee&show_icons=true&theme=radical)  -->
 
 <img width = "49%" style = "margin-right: 5px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ankeshbanerjee&show_icons=true&theme=radical&layout=compact">
-<!-- <img align = "right" width = "48%" style = "border-radius: 5px;" src = "coding2.png"> -->
+<img align = "right" width = "48%" style = "border-radius: 5px;" src = "coding2.png">
 
 ## ☎️ Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankesh-banerjee-985911231/)
