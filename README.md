@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-<img align="right" src="coding.gif" width="38%">
+<!-- <img align="right" src="coding.gif" width="38%"> -->
 
  
 ### I'm an undergrad student of Computer Science and Engineering, currently a sophomore. 💻 
@@ -25,7 +25,7 @@ I'm investing all my time to learn and dive deep into the world of coding.
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankeshbanerjee&show_icons=true&theme=radical) -->
 
-<img width="49.5%" style = "margin-right: 5px;" src="https://github-readme-stats.vercel.app/api?username=ankeshbanerjee&show_icons=true&theme=radical"><img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=ankeshbanerjee&theme=radical" >
+<img width = "49%" style = "margin-right: 5px;" src="https://github-readme-stats.vercel.app/api?username=ankeshbanerjee&show_icons=true&theme=radical"><img width = "49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankeshbanerjee&theme=radical" >
 
 
 ## 💻 Top languages
