@@ -23,7 +23,7 @@ I'm investing all my time to learn and dive deep into the world of coding.
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankeshbanerjee&show_icons=true&theme=radical) -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankeshbanerjee&show_icons=true&theme=radical"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankeshbanerjee&theme=radical" >
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ankeshbanerjee&show_icons=true&theme=radical"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankeshbanerjee&theme=radical" >
 
 
 ## 💻 Top languages
