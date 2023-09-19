@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
  
-### I'm an undergrad student of Computer Science and Engineering, currently a sophomore. 💻 
+### I'm an undergrad student of Computer Science and Engineering, currently in pre-final year. 💻 
 
 <br>
 
