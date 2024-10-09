@@ -12,7 +12,7 @@
 I'm investing all my time to learn and dive deep into the world of coding. 
 
 
-- 🧠 I'm currently learning DSA, Web and Mobile Application development 
+- 🧠 I'm currently focusing on full stack Mobile App Development and DSA.
 
 - 💻 I'm looking forward to contribute in open source projects
 
